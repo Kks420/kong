@@ -17,7 +17,7 @@ Kong runs natively on Kubernetes thanks to its official [Kubernetes Ingress Cont
 
 ## Getting Started
 
-Let’s test drive Kong by adding authentication to an API in under 5 minutes.
+Let’s test drive Kong by adding authentication to an API in under 2 minutes
 
 We suggest using the docker-compose distribution via the instructions below, but there is also a [docker installation](https://docs.konghq.com/install/docker/) procedure if you’d prefer to run the Kong API Gateway in DB-less mode. 
 
